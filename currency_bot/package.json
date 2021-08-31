@@ -1,0 +1,24 @@
+{
+  "name": "currency_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for monitoring currencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderIbraimov/currency_telegram_bot.git"
+  },
+  "author": "alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderIbraimov/currency_telegram_bot/issues"
+  },
+  "homepage": "https://github.com/AlexanderIbraimov/currency_telegram_bot#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "request": "^2.88.2",
+    "telegraf": "^4.4.0"
+  }
+}
